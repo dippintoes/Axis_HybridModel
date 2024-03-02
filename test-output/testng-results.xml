@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-02T09:05:58Z" name="FREE CRM Application Test Automation Test Suite" finished-at="2024-03-02T09:06:21Z" duration-ms="22510">
+    <groups>
+    </groups>
+    <test started-at="2024-03-02T09:05:58Z" name="Free CRM App Test Cases" finished-at="2024-03-02T09:06:21Z" duration-ms="22510">
+      <class name="com.crm.qa.testcases.CheckoutCompleteTestCase">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.CheckoutCompleteTestCase@3571b748]" started-at="2024-03-02T14:36:17Z" name="setUp" finished-at="2024-03-02T14:36:20Z" duration-ms="3762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addingdetails()[pri:0, instance:com.crm.qa.testcases.CheckoutCompleteTestCase@3571b748]" started-at="2024-03-02T14:36:20Z" name="addingdetails" finished-at="2024-03-02T14:36:21Z" duration-ms="57" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingdetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.CheckoutCompleteTestCase@3571b748]" started-at="2024-03-02T14:36:21Z" name="tearDown" finished-at="2024-03-02T14:36:21Z" duration-ms="306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.CheckoutCompleteTestCase -->
+      <class name="com.crm.qa.testcases.AddToCartTestCase">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.AddToCartTestCase@32910148]" started-at="2024-03-02T14:36:03Z" name="setUp" finished-at="2024-03-02T14:36:05Z" duration-ms="2384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addingtocartTest()[pri:0, instance:com.crm.qa.testcases.AddToCartTestCase@32910148]" started-at="2024-03-02T14:36:05Z" name="addingtocartTest" finished-at="2024-03-02T14:36:05Z" duration-ms="350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingtocartTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.AddToCartTestCase@32910148]" started-at="2024-03-02T14:36:05Z" name="tearDown" finished-at="2024-03-02T14:36:06Z" duration-ms="249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.AddToCartTestCase -->
+      <class name="com.crm.qa.testcases.CheckoutStep2TestCase">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.CheckoutStep2TestCase@fd07cbb]" started-at="2024-03-02T14:36:13Z" name="setUp" finished-at="2024-03-02T14:36:16Z" duration-ms="3546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addingdetails()[pri:0, instance:com.crm.qa.testcases.CheckoutStep2TestCase@fd07cbb]" started-at="2024-03-02T14:36:16Z" name="addingdetails" finished-at="2024-03-02T14:36:16Z" duration-ms="194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingdetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.CheckoutStep2TestCase@fd07cbb]" started-at="2024-03-02T14:36:16Z" name="tearDown" finished-at="2024-03-02T14:36:17Z" duration-ms="228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.CheckoutStep2TestCase -->
+      <class name="com.crm.qa.testcases.CheckoutPagetestCase">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.CheckoutPagetestCase@2b4bac49]" started-at="2024-03-02T14:36:09Z" name="setUp" finished-at="2024-03-02T14:36:12Z" duration-ms="2854" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addingdetails()[pri:0, instance:com.crm.qa.testcases.CheckoutPagetestCase@2b4bac49]" started-at="2024-03-02T14:36:12Z" name="addingdetails" finished-at="2024-03-02T14:36:13Z" duration-ms="204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingdetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.CheckoutPagetestCase@2b4bac49]" started-at="2024-03-02T14:36:13Z" name="tearDown" finished-at="2024-03-02T14:36:13Z" duration-ms="233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.CheckoutPagetestCase -->
+      <class name="com.crm.qa.testcases.LoginTestcase">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LoginTestcase@672872e1]" started-at="2024-03-02T14:35:58Z" name="setUp" finished-at="2024-03-02T14:36:02Z" duration-ms="3354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginPageTitleTest()[pri:0, instance:com.crm.qa.testcases.LoginTestcase@672872e1]" started-at="2024-03-02T14:36:02Z" name="loginPageTitleTest" finished-at="2024-03-02T14:36:02Z" duration-ms="634" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.LoginTestcase@672872e1]" started-at="2024-03-02T14:36:02Z" name="tearDown" finished-at="2024-03-02T14:36:03Z" duration-ms="244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.LoginTestcase -->
+      <class name="com.crm.qa.testcases.CheckoutInfoTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.CheckoutInfoTest@3f56875e]" started-at="2024-03-02T14:36:06Z" name="setUp" finished-at="2024-03-02T14:36:09Z" duration-ms="3058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addingdetails()[pri:0, instance:com.crm.qa.testcases.CheckoutInfoTest@3f56875e]" started-at="2024-03-02T14:36:09Z" name="addingdetails" finished-at="2024-03-02T14:36:09Z" duration-ms="571" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingdetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.CheckoutInfoTest@3f56875e]" started-at="2024-03-02T14:36:09Z" name="tearDown" finished-at="2024-03-02T14:36:09Z" duration-ms="225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.CheckoutInfoTest -->
+    </test> <!-- Free CRM App Test Cases -->
+  </suite> <!-- FREE CRM Application Test Automation Test Suite -->
+</testng-results>
